@@ -60,8 +60,6 @@ was transformed into binary format, indicating whether it falls within the refer
     - Dennis O'Brien. pandarallel: A simple and efficient tool to parallelize pandas operations. Zenodo, 2019. [https://doi.org/10.5281/zenodo.3509134](https://doi.org/10.5281/zenodo.3509134)
 - numpy
     - Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. Nature 585, 357–362 (2020). [https://www.nature.com/articles/s41586-020-2649-2](https://www.nature.com/articles/s41586-020-2649-2)
-- tqdm
-    - Casper da Costa-Luis. tqdm: A Fast, Extensible Progress Bar for Python and CLI. Zenodo, 2021. [https://zenodo.org/record/7697295](https://zenodo.org/record/7697295)
 - networkx
     - Aric A. Hagberg, Daniel A. Schult, Pieter J. Swart. Exploring network structure, dynamics, and function using NetworkX. Proceedings of the 7th Python in Science Conference, 2008. [https://conference.scipy.org/proceedings/SciPy2008/paper_2/](https://conference.scipy.org/proceedings/SciPy2008/paper_2/)
 - matplotlib
